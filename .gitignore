@@ -1,0 +1,7 @@
+/target/
+/test-keys/
+Cargo.lock
+*.pem
+*.json
+!package.json
+.env
