@@ -43,7 +43,7 @@ cargo install stealth-launch
 Or build from source:
 
 ```bash
-git clone https://github.com/tetsuo-ai/stealthsuo
+git clone https://github.com/piccassol/stealthsuo
 cd stealthsuo
 cargo build --release
 ```
